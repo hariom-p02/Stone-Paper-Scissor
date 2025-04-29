@@ -27,14 +27,14 @@ This is a simple and interactive **Stone-Paper-Scissor** game built using **HTML
 ---
 
 ## 📂 Project Structure
-stone-paper-scissor/
-├── index.html         # Main HTML file (game UI and structure)
-├── style.css          # CSS file for styling the UI
-├── script.js           # JavaScript file for game logic
-├── rock.png          # Image for the rock choice
-├── paper.png         # Image for the paper choice
-├── scissors.png      # Image for the scissors choice
-└── Homepage.png    # Optional: Screenshot of the homepage (for README)
+stone-paper-scissor
+ index.html         # Main HTML file (game UI and structure)
+ style.css          # CSS file for styling the UI
+ script.js           # JavaScript file for game logic
+ rock.png          # Image for the rock choice
+ paper.png         # Image for the paper choice
+ scissors.png      # Image for the scissors choice
+ Homepage.png    # Screenshot of the homepage (for README)
 
 ## 🚀 How to Run
 
